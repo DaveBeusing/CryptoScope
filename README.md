@@ -8,7 +8,7 @@ CryptoScope is the intellectual successor to CryptoTrader (https://github.com/Da
 Just another try on get rich or go broke trying ^^ <br>
 A few lines of Python code to trade all sort of sh*tcoins on Binance.<br>
 If you not have an Account yet, please consider to use this Referal-Link https://accounts.binance.com/en/register?ref=GS2A2GHH it will result in a Fee-Discount for you :)<br><br><br>
-⚠️ <b style="color:red">You need to have a basic understanding of the topic and be hands-on to make this piece of code profitable, otherwise you will lose your money, be warned!</b> ⚠️
+⚠️ <b style="color:red">You need to have a basic understanding of the topic and be hands-on to make this piece of code profitable, otherwise you will lose your money, be warned!</b> ⚠️ <br><br>
 
 ### 🔹 Dependencies
 > pip install pandas <br> pipi install numpy <br> pip install sqlalchemy <br> pip install binance <br> 
