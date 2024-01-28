@@ -3,7 +3,7 @@
 <br>
 <br>
 
-# CryptoScope - a Python based full auto crypto trading bot based on CryptoTrader
+# CryptoScope - full auto crypto trading
 CryptoScope is the intellectual successor to CryptoTrader (https://github.com/DaveBeusing/CryptoTrader)<br>
 Just another try on get rich or go broke trying ^^ <br>
 A few lines of Python code to trade all sort of sh*tcoins on Binance.<br>
