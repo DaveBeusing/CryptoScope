@@ -27,7 +27,6 @@ U also can create detailed tarding reports by using Reports.py.
 > python Report.py
 
 ### 🔹 Screenshots
-<b>Reporting</b>
 ![CryptoScope Reporting](https://raw.githubusercontent.com/DaveBeusing/CryptoScope/master/github/CryptoScope_Reporting.png)
 
 ## ⚠️ DISCLAIMER ⚠️
