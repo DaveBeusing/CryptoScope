@@ -21,7 +21,7 @@ After a while we acquired enough data to start the trading bot.
 > python Trader.py
 
 U can monitor the Bot using Monitor.py.
-> python CryptoStats.py 
+> python Monitor.py 
 
 U also can create detailed tarding reports by using Reports.py.
 > python Report.py
