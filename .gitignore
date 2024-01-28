@@ -1,0 +1,10 @@
+*.log
+*.report
+*.stdout
+*.db
+*.db-journal
+*.sqlite3
+cryptoscope/__pycache__/
+database/meta/*.json
+key/binance.key
+LEGACY_README
